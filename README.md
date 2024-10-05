@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a second-year student in Software Engineering and Computer Systems at the International Institute of Technology of Sfax (IIT), I have a strong background in software development and a passion for innovative technologies. I am currently seeking a full-time position in the field of software engineering where I can leverage my technical skills and enthusiasm for new technologies. My goal is to contribute to the development of advanced software solutions in a dynamic environment, while bringing a motivated and innovation-focused perspective to your team. 🚀💻
+As a third-year student in Software Engineering and Computer Systems at the International Institute of Technology of Sfax (IIT), I have a strong background in software development and a passion for innovative technologies. I am currently seeking a full-time position in the field of software engineering where I can leverage my technical skills and enthusiasm for new technologies. My goal is to contribute to the development of advanced software solutions in a dynamic environment, while bringing a motivated and innovation-focused perspective to your team. 🚀💻
 
 
 ## 🌐 Socials:
